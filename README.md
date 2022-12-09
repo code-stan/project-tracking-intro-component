@@ -32,7 +32,7 @@ Users should be able to:
 
 
 ### Links
-- Live Site URL: [Add live site URL here](https://code-stan.github.io/project-tracking-intro-component/)
+- Live Site URL: [Project tracking Intro Component](https://code-stan.github.io/project-tracking-intro-component/)
 
 ## My process
 
